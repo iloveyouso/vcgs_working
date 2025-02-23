@@ -1,0 +1,48 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+# created-by: conda 25.1.1
+_libgcc_mutex=0.1=main
+_openmp_mutex=5.1=1_gnu
+bzip2=1.0.8=h5eee18b_6
+ca-certificates=2025.1.31=hbcca054_0
+configobj=5.0.9=pypi_0
+contourpy=1.3.1=pypi_0
+cycler=0.12.1=pypi_0
+fonttools=4.56.0=pypi_0
+future=1.0.0=pypi_0
+h5py=3.12.1=pypi_0
+hydra-core=0.11.3=pypi_0
+kiwisolver=1.4.8=pypi_0
+ld_impl_linux-64=2.40=h12ee557_0
+libffi=3.4.4=h6a678d5_1
+libgcc-ng=11.2.0=h1234567_1
+libgomp=11.2.0=h1234567_1
+libstdcxx-ng=13.2.0=hc0a3c3a_7
+libuuid=1.41.5=h5eee18b_0
+lmdb=1.6.2=pypi_0
+matplotlib=3.10.0=pypi_0
+mayavi=4.8.2=pypi_0
+msgpack-numpy=0.4.8=pypi_0
+ncurses=6.4=h6a678d5_0
+openssl=3.0.15=h5eee18b_0
+packaging=24.2=pypi_0
+pip=25.0=py310h06a4308_0
+pointnet2-ops=3.0.0=pypi_0
+pygments=2.19.1=pypi_0
+pyparsing=3.2.1=pypi_0
+python=3.10.16=he870216_1
+pytorch-lightning=0.7.1=pypi_0
+pytz=2025.1=pypi_0
+pyyaml=6.0.2=pypi_0
+readline=8.2=h5eee18b_0
+scipy=1.15.1=pypi_0
+setuptools=75.8.0=py310h06a4308_0
+six=1.17.0=pypi_0
+sqlite=3.45.3=h5eee18b_0
+tk=8.6.14=h39e8969_0
+trimesh=4.6.1=pypi_0
+tzdata=2025a=h04d1e81_0
+wheel=0.45.1=py310h06a4308_0
+xz=5.4.6=h5eee18b_1
+zlib=1.2.13=h5eee18b_1
